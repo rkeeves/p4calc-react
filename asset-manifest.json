@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/p4calc-react/static/css/main.446d1078.css",
-    "main.js": "/p4calc-react/static/js/main.80fe0ae9.js",
+    "main.js": "/p4calc-react/static/js/main.c59738ca.js",
     "index.html": "/p4calc-react/index.html",
     "main.446d1078.css.map": "/p4calc-react/static/css/main.446d1078.css.map",
-    "main.80fe0ae9.js.map": "/p4calc-react/static/js/main.80fe0ae9.js.map"
+    "main.c59738ca.js.map": "/p4calc-react/static/js/main.c59738ca.js.map"
   },
   "entrypoints": [
     "static/css/main.446d1078.css",
-    "static/js/main.80fe0ae9.js"
+    "static/js/main.c59738ca.js"
   ]
 }
