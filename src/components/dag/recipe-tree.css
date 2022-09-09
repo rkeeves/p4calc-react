@@ -1,0 +1,11 @@
+.recipe-tree-root-node > circle {
+    fill: #0d6efd;
+}
+
+.recipe-tree-branch-node > circle {
+    fill: #0d6efd;
+}
+
+.recipe-tree-leaf-node > circle {
+    fill: #212529;
+}
