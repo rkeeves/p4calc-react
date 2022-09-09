@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'
 import Container from 'react-bootstrap/Container';
 import Home from './pages/home/Home';
 import SettingsOverview from './pages/settings/SettingsOverview';
@@ -13,7 +13,6 @@ import LogisticsView from './pages/logistics/LogisticsView';
 import RecipesView from './pages/recipes/RecipesView';
 
 const App: React.FC = () => {
-
   return (
     <Router>
       <Container id="base" fluid>
